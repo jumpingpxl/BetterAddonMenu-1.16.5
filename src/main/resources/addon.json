@@ -1,0 +1,9 @@
+{
+  "uuid": "%uuid%",
+  "author": "JumpingPxl",
+  "name": "BetterAddonMenu",
+  "mainClass": "de.jumpingpxl.labymod.addon.BetterAddonMenu",
+  "description": "Better Addon Menü halt lol",
+  "version": 1,
+  "category": 2
+}
